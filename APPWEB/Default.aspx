@@ -1,13 +1,12 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="APPWEB_Default" %>
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Simulador de Crédito</title>
+    <link rel="stylesheet" href="styles.css" />
 </head>
-<body>
     <form id="form1" runat="server">
         <h1 style="font-family: 'Arial Black'">Simulador de Pagos de Crédito</h1>
 
